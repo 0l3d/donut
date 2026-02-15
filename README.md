@@ -6,7 +6,7 @@ A classic spinning donut animation implemented in Rust using no_std, inspired by
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/0l3d/donut.git
+git clone https://git.sr.ht/~oled/donut
 cd donut
 ```
 
