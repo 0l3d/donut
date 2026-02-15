@@ -37,4 +37,4 @@ make
 This project is open source. Feel free to use and modify.
 
 ## Author 
-Created by **0l3d**
+Created by **oled**
